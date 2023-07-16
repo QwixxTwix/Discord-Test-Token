@@ -6,7 +6,7 @@
 <p align="center"><a href="https://t.me/QwixxTwixx" target="_blank">my tg channel</a>
 
 
-<h2 align="center"> created by Qwixx Twix </h1> 
+<h2 align="center"> created by qwixx twix </h1> 
 
 <h2 align="center">
   Discord Test Token shows if the token is working!
