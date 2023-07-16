@@ -3,7 +3,7 @@
 
 
 
-<p align="center"><a href="https://t.me/QwixxTwixx" target="_blank">my tg channel</a>
+<p align="center"><a href="https://t.me/QwixxTwixx" target="_blank">tg channel</a>
 
 
 <h2 align="center"> created by qwixx twix </h1> 
