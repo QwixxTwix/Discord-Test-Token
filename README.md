@@ -125,7 +125,7 @@ OTk5OTk5OTk5.ABCDEF.abc...
 
 ## 🖼 Скриншот
 
-![demo](https://sun9-69.userapi.com/impg/HPg-71cR_FamnkLmP9Jomz-pOg21fYev3VtO8Q/nOC-WqCXC5g.jpg?size=507x218&quality=95&sign=9920c92a9dd7f3582814889fa205dcfb&c_uniq_tag=v7HgTivL0Kq76h8YTzdeU_TbZeT21stzLqZn5k4FV2U&type=album)
+<img width="788" height="442" alt="image" src="https://github.com/user-attachments/assets/3aaa5a53-d11f-4d28-b64a-0194204ab1c6" />
 
 ---
 
