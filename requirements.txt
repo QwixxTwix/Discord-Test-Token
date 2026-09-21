@@ -1,5 +1,2 @@
-requests
-colorama
-os
-threading
-colorama
+requests>=2.31.0
+colorama>=0.4.6
